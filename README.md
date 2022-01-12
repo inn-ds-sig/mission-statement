@@ -4,6 +4,6 @@ The purpose of `inn-ds-sig` is to bring researchers and students from different 
 
 
 
-If you want to contribute, contact [Daniel Hammarström](daniel.hammarstrom@inn.no).
+If you want to contribute, contact [Daniel Hammarström](mailto:daniel.hammarstrom@inn.no).
 
 
